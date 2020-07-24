@@ -7,5 +7,4 @@ class PostResource < ApplicationResource
   # Direct associations
 
   # Indirect associations
-
 end
