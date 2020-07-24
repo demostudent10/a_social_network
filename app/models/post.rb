@@ -5,5 +5,7 @@ class Post < ApplicationRecord
 
   # Validations
 
+  validates :body, presence: true
+
   # Scopes
 end
